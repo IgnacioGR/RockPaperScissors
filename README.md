@@ -1,6 +1,6 @@
 <h1>Rock, Paper, Scissors Game</h1>
 
-<a href = "https://ignaciogr.github.io/RockPapperScissors/">Live Demo</a>
+<a href = "https://ignaciogr.github.io/RockPaperScissors/">Live Demo</a>
 
 For playing: <br>
   <br>
